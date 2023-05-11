@@ -1,0 +1,12 @@
+git clone [깃주소] # git 레포지토리를 받아옴
+
+git 올리는 법
+git status
+git add .
+git commit -m "commit message"
+git push
+
+git 받는 법
+
+git fetch
+git pull
