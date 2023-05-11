@@ -1,0 +1,5 @@
+cd ~
+cd git
+cd python-study
+
+여기로 들어와서 git stauts부터 시작 (올릴때)
